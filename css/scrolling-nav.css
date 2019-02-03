@@ -1,0 +1,14 @@
+header {
+  padding: 156px 0 100px;
+  height: 100%;
+  width: auto;
+}
+
+section {
+  padding: 20px 0;
+}
+
+ul li {
+  display: inline;
+  padding: 0 20px;
+}
